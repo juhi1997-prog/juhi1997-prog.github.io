@@ -6,5 +6,5 @@ I am a first year student at Columbia SIPA interested in the intersection of cli
 
 
 
-
+[NYC Food Scrap Analysis](project_1.ipynb)
 
